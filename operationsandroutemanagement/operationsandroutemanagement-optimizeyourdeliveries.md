@@ -40,11 +40,11 @@ This task walks you through selecting the time frame and launching the route cal
 1. **Set the Optimization Date Range:** On the optimization screen, enter or edit the desired start date and end date for the optimized routes.
 2. **Edit the Number of Days (Optional):** If needed, you can adjust the number of planning days directly on this screen.
 
-![](../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_29.png)
+![](broken-reference)
 
 3. Click on **Start Optimization**
 
-![](../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_38–1_to_41.gif)
+![](broken-reference)
 
 #### Adjusting the Planning Period (Number of Days)
 
@@ -53,28 +53,28 @@ If you need to change how many days the system should plan routes for, you can c
 1. **Access My Deliveries:** Go to **My Deliveries**.
 2. **Find the Delivery Name:** Locate the name associated with the delivery set you wish to modify.
 
-![](../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_53–0_to_56.gif)
+![](broken-reference)
 
 3. Click on **Planning**
 
-![](../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_58–1_to_00.gif)
+![](broken-reference)
 
 5. **Edit Days:** Change the value to the new number of days you wish to use for planning.
 6. Click on **Save**
 
-![](../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_09–1_to_12.gif)
+![](broken-reference)
 
 #### Viewing Optimization Results
 
 Once the optimization is running, you can monitor the results.
 
-![](../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_2_to_05–2_to_10.gif)
+![](broken-reference)
 
 **Review Results:** You will see the optimization result summary.
 
 Click on **Display the Simulation**
 
-![](../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_2_to_22–2_to_25.gif)
+![](broken-reference)
 
 4. Deliveries have been optimized successfully.
 

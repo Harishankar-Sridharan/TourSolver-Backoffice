@@ -13,7 +13,7 @@ When you choose to export to Excel, the system provides several options to tailo
    * **One sheet per deliverer**.
    * _**Context**:_ This helps you decide if you want a consolidated view or detailed reports for individual team members.
 
-![](../.gitbook/assets/OperationsandRouteManagement-ExportmyRoutes_timestamp_1_to_09–1_to_15.gif)
+![](broken-reference)
 
 💡 **Tip:** These configurations only apply to the Excel export option. Other formats (like PowerPoint or Calendar) will use their standard output settings.
 
@@ -24,7 +24,7 @@ You can choose which specific columns (fields) appear in your exported file.
 1. Click on **other** within the configuration window.
 2. You will see a list of **available fields** and **display fields**.
 
-![GIF at 1:46–1:53](../.gitbook/assets/OperationsandRouteManagement-ExportmyRoutes_timestamp_1_to_46–1_to_53.gif)
+![GIF at 1:46–1:53](broken-reference)
 
 4. You can also **enable the custom configuration** if needed.
    * _Context:_ When finished, the export file will contain both **standard and mapped columns**.
@@ -62,23 +62,23 @@ Follow these steps to successfully export your selected route:
 
 1. Start from the system **home page**.
 
-![](../.gitbook/assets/OperationsandRouteManagement-ExportmyRoutes_timestamp_0_to_05–0_to_08.gif)
+![](broken-reference)
 
 **Select the Route**
 
 1. **Click the route** that you wish to export.
 
-![](../.gitbook/assets/OperationsandRouteManagement-ExportmyRoutes_timestamp_0_to_13–0_to_16.gif)
+![](broken-reference)
 
 **Initiate the Export Dialogue**
 
-![](../.gitbook/assets/OperationsandRouteManagement-ExportmyRoutes_timestamp_0_to_18–0_to_21.gif)
+![](broken-reference)
 
 **Choose Excel Format**
 
 1. Since you wish to export the data in Excel, click on **export to Excel**.
 
-![](../.gitbook/assets/OperationsandRouteManagement-ExportmyRoutes_timestamp_0_to_50–0_to_54.gif)
+![](broken-reference)
 
 **Configure and Generate the File**
 
@@ -88,11 +88,11 @@ Follow these steps to successfully export your selected route:
 
 **Finalize Export and Open File**
 
-![](../.gitbook/assets/OperationsandRouteManagement-ExportmyRoutes_timestamp_2_to_18–2_to_23.gif)
+![](broken-reference)
 
 Click the **downloaded file** to open it
 
-![](../.gitbook/assets/OperationsandRouteManagement-ExportmyRoutes_timestamp_2_to_31–2_to_34.gif)
+![](broken-reference)
 
 Please find the **downloaded excel file** below.
 

@@ -17,7 +17,7 @@ To successfully share a tour, you must first access the optimization section and
 
 When you share the tour, the system handles notification delivery based on your account status:
 
-![](../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_1_to_06–1_to_16.gif)
+![](broken-reference)
 
 ## 3. Feature Explanations with Benefits
 
@@ -37,38 +37,38 @@ Follow these detailed steps to successfully share your optimized route with your
 
 1. Click on **Optimization**
 
-![](../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_09–0_to_15.gif)
+![](broken-reference)
 
 2. Choose the **desired route** from the list
 
-![](../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_15–0_to_21.gif)
+![](broken-reference)
 
 3. Click on **Export** and click on **Share with the Mobile App**
 
-![](../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_21–0_to_26.gif)
+![](broken-reference)
 
 5\. **Set the Start Date (From Date):** Enter the start date from which you want the tour to be shared.
 
-![](../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_39.png)
+![](broken-reference)
 
 6. Choose a **Desired starting date**
 
 7\. **Set the End Date (To Date):** Choose a "**to date**".
 
-![](../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_48.png)
+![](broken-reference)
 
 **Note**: The standard duration will be 1 day, but you can adjust the "to date" if necessary.\
 Date Selection interface showing From Date, To Date, and Duration (1 day)
 
-![](../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_0_to_57–1_to_06.gif)
+![](broken-reference)
 
 8. **Review the Notification (Trial/Subscribed):** Read the confirmation notification displayed based on whether you are using a trial or subscribed version.
 
-![](../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_1_to_25–1_to_35.gif)
+![](broken-reference)
 
 9. Click on **Send**
 
-![](../.gitbook/assets/OperationsandRoutemanagement-ShareaTourwiththeMobileApp_timestamp_1_to_35–1_to_43.gif)
+![](broken-reference)
 
 Final Confirmation Pop-up showing details of deliveries shared and emails sent
 
