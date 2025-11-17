@@ -10,15 +10,15 @@ You can start modifying resources and constraints directly from the systemʼs ho
 
 #### Access My Deliverers
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. **Choose Your Modification Method:** You have two primary ways to modify a resource: team-wise (affecting a group) or individually.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click the **edit** (pencil) icon next to the name
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. You can start modifying the associated constraints.
 

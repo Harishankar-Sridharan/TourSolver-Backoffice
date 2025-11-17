@@ -20,7 +20,7 @@ To begin creating or modifying a user, follow these steps:
 3. Click on **Actions**.
 4. Click on **Add**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Feature Explanations and Benefits
 
@@ -47,7 +47,7 @@ This is necessary when onboarding a new employee who requires a unique login ID 
 1. After navigating to the Add screen, confirm you are creating a user from scratch.
 2. First, let's see how to create the user from the scratch. Click on **OK** – Begins new user creation.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://github.com/Harishankar-Sridharan/Nomadia-Docs-TourSolver-Self-Service/blob/Docs/.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_20%E2%80%930_to_27.gif" alt=""><figcaption></figcaption></figure>
 

@@ -53,7 +53,7 @@ If your resource is transporting goods, you must define their capacity limits:
 2. Click on the plus symbol **(+)** located at the bottom corner.
 3. Add the necessary vehicle capacities in the available fields.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **To Delete a Capacity Slot:** If you need to remove a capacity entry, click on the delete icon located on the right side.
 
