@@ -40,11 +40,11 @@ This task walks you through selecting the time frame and launching the route cal
 1. **Set the Optimization Date Range:** On the optimization screen, enter or edit the desired start date and end date for the optimized routes.
 2. **Edit the Number of Days (Optional):** If needed, you can adjust the number of planning days directly on this screen.
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on **Start Optimization**
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 #### Adjusting the Planning Period (Number of Days)
 
@@ -53,28 +53,32 @@ If you need to change how many days the system should plan routes for, you can c
 1. **Access My Deliveries:** Go to **My Deliveries**.
 2. **Find the Delivery Name:** Locate the name associated with the delivery set you wish to modify.
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_53–0_to_56.gif" alt=""><figcaption></figcaption></figure>
 
 3. Click on **Planning**
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_0_to_58–1_to_00.gif" alt=""><figcaption></figcaption></figure>
 
-5. **Edit Days:** Change the value to the new number of days you wish to use for planning.
-6. Click on **Save**
+3. **Edit Days:** Change the value to the new number of days you wish to use for planning.
+4. Click on **Save**
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_09–1_to_12.gif" alt=""><figcaption></figcaption></figure>
 
 #### Viewing Optimization Results
 
+Click on Start Optimization
+
+<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_1_to_38–1_to_41.gif" alt=""><figcaption></figcaption></figure>
+
 Once the optimization is running, you can monitor the results.
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_2_to_22–2_to_25.gif" alt=""><figcaption></figcaption></figure>
 
 **Review Results:** You will see the optimization result summary.
 
 Click on **Display the Simulation**
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/OperationsandRouteManagement-OptimizeyourDeliveries_timestamp_2_to_22–2_to_25 (1).gif" alt=""><figcaption></figcaption></figure>
 
 4. Deliveries have been optimized successfully.
 
