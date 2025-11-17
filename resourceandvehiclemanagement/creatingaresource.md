@@ -40,8 +40,8 @@ Follow these steps to successfully create and define your new delivery staff mem
 
 <figure><img src="../.gitbook/assets/msedge_iljaCfTK1s.png" alt=""><figcaption></figcaption></figure>
 
-1. Go to the **Working time tab.**
-2. Select whether you want the automatic start time feature to be active (yes or no).
+3. Go to the **Working time tab.**
+4. Select whether you want the automatic start time feature to be active (yes or no).
 
 <figure><img src="../.gitbook/assets/LQ0RG32TR2.png" alt=""><figcaption></figcaption></figure>
 
