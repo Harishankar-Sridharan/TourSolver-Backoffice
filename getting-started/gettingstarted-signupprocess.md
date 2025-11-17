@@ -55,8 +55,6 @@ stating, _**“Your email has been verified.”**_
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
 ### Setting Your Profile Details
 
 Now you will configure additional details to set up your account.
@@ -91,8 +89,6 @@ After creating your profile, you will automatically reach the Onboarding Page to
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
 3. Click on **Letʼs Go**
 
 ***
@@ -117,5 +113,5 @@ These limits allow you to test real-world scenarios and experience the platform�
 
 To ensure your newly created credentials work correctly, it is recommended practice to log out immediately and log back in.
 
-1. **Log-out** : Log out of the system.
+1. **Log-out**: Log out of the system.
 2. **Log-in**: Log back in using the email and password you just created to verify your credentials are functional.
