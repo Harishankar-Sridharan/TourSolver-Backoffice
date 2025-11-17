@@ -22,8 +22,6 @@ To begin creating or modifying a user, follow these steps:
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-
 ### 3. Feature Explanations and Benefits
 
 When you create or modify a user, you will interact with several key sections to define their access and scheduling.
@@ -104,8 +102,6 @@ This is necessary when onboarding a new employee who requires a unique login ID 
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
-
 ### Modify an Existing User
 
 You can easily update an existing user's information, such as their roles, agencies, or schedule, without starting over.
@@ -114,8 +110,6 @@ You can easily update an existing user's information, such as their roles, agenc
 2. **Choose the User**: Select the specific user you want to modify, and then Click on **OK**.
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 3. **Modify Information**: Go through the different sections (Access, Roles and Rights, Planning, etc.) and modify the existing information as needed.
 4. **Save Changes:** Once you have updated the necessary information, Click on Save to complete the modification.
